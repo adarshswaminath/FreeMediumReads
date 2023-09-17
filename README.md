@@ -34,7 +34,7 @@
 # Option 2: Use the Binary Files
  Run the binary file with the following command:
  ```bash
-  ./<filename> <medium-link>
+  ./<binary_filename> <medium-link>
 ```
   
  Replace <filename> with the appropriate binary file name (e.g., app-linux, app-macos, or app-win.exe), and <medium-link> with the URL of the Medium article you want to read.
